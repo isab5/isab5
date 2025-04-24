@@ -2,7 +2,7 @@
 
  Entre cliques na natureza, páginas de livros e linhas de código, é onde me sinto em casa.
   <br/><br/>
-  Sou uma desenvolvedora que encontra inspiração nas coisas simples e belas do mundo — uma trilha em meio às árvores, uma boa história ou um desafio de programação. Amo transformar ideias em código limpo e funcional, assim como amo capturar momentos únicos com minha câmera e mergulhar em livros que me transportam para outros mundos.
+  Sou uma desenvolvedora que encontra inspiração nas coisas simples e belas do mundo — uma fotografia do pôr-do-sol, uma boa história ou um desafio de programação. Amo transformar ideias em código limpo e funcional, assim como amo capturar momentos únicos com minha câmera e mergulhar em livros que me transportam para outros mundos.
   <br/><br/>
   Aqui no GitHub, você vai encontrar um pedacinho desse universo que mistura criatividade, curiosidade e muita vontade de aprender.
 </p>
