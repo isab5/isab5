@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou a Isa 👋</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80" alt="Banner com livros" width="100%"/>
+  <img src="[https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80](https://sdmntpreastus2.oaiusercontent.com/files/00000000-84dc-61f6-85a3-5cf6a566c3ff/raw?se=2025-04-29T18%3A33%3A50Z&sp=r&sv=2024-08-04&sr=b&scid=01057dcd-573e-5d24-b9c5-17165330b2b2&skoid=a47cd303-16a2-427e-8efb-2ce406116005&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-29T03%3A10%3A31Z&ske=2025-04-30T03%3A10%3A31Z&sks=b&skv=2024-08-04&sig=JaUxkCUHaYTdfUfdbShMafiXCqZis6PF7KTG8eufIAE%3D)" alt="Banner com livros" width="100%"/>
 </p>
 
 Entre cliques na natureza, páginas de livros e linhas de código, é onde me sinto em casa.  
