@@ -4,11 +4,29 @@
   <img src="https://i.pinimg.com/736x/84/3e/40/843e4086482632a69f365c33ab9d0a14.jpg" alt="Banner com livros" width="100%"/>
 </p>
 
-Entre cliques na natureza, páginas de livros e linhas de código, é onde me sinto em casa.  
-<br/>
-Sou uma desenvolvedora que encontra inspiração nas coisas simples e belas do mundo — uma fotografia do pôr-do-sol, uma boa história ou um desafio de programação. Amo transformar ideias em código limpo e funcional, assim como amo capturar momentos únicos com minha câmera e mergulhar em livros que me transportam para outros mundos.  
-<br/>
-Aqui no GitHub, você vai encontrar um pedacinho desse universo que mistura criatividade, curiosidade e muita vontade de aprender.
+# 👩‍💻 Bem-vindo(a) ao meu GitHub!
+
+🌿 **Entre cliques na natureza, páginas de livros e linhas de código, é onde me sinto verdadeiramente em casa.**
+
+Sou uma desenvolvedora apaixonada por transformar ideias em soluções criativas e funcionais. Meu processo começa com a observação — seja da natureza ao meu redor, de uma boa história nas páginas de um livro 📚 ou de um problema interessante que pode ser resolvido com código 💻. Essas são as fontes que alimentam minha inspiração e minha vontade constante de aprender e evoluir.
+
+Fotografia 📷 é uma das minhas formas favoritas de me conectar com o mundo. Gosto de capturar a beleza dos detalhes que muitas vezes passam despercebidos — um pôr do sol silencioso, a textura de uma folha ou a luz atravessando uma janela. É essa sensibilidade ao que é simples e verdadeiro que também levo para o meu trabalho como desenvolvedora.
+
+Programar, para mim, é como contar histórias com lógica. Cada linha de código é um passo em direção a uma ideia que ganha vida. Busco sempre escrever código limpo, bem estruturado e com propósito. A estética importa tanto quanto a funcionalidade — afinal, software também pode (e deve) ser bonito por dentro e por fora ✨.
+
+<hr/>
+
+### 🌟 O que você vai encontrar por aqui:
+
+- 🚀 Projetos pessoais
+- 🧩 Experimentos criativos
+- 📎 Soluções para desafios do dia a dia
+- 🛠️ Aprendizado em constante construção
+
+<hr/>
+
+Misturo técnica com sensibilidade, curiosidade com disciplina, e criatividade com organização. E estou sempre aberta a trocar ideias, colaborar em novos projetos e aprender com outras pessoas incríveis da comunidade dev 🌍.
+
 
 <hr/>
 
