@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou a Isa 👋</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/84/3e/40/843e4086482632a69f365c33ab9d0a14.jpg" alt="Banner com livros" width="100%"/>
+  <img src="https://i.pinimg.com/1200x/83/fe/d6/83fed6c7a7de2002a245734b9597ef41.jpg" alt="Banner com livros" width="100%"/>
 </p>
 
 # 👩‍💻 Bem-vindo(a) ao meu GitHub!
@@ -61,3 +61,4 @@ Misturo técnica com sensibilidade, curiosidade com disciplina, e criatividade c
 ---
 
 ⭐ Obrigada por visitar meu perfil!
+
