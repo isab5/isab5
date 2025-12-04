@@ -63,3 +63,4 @@ Misturo técnica com sensibilidade, curiosidade com disciplina, e criatividade c
 ⭐ Obrigada por visitar meu perfil!
 
 
+
