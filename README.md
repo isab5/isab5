@@ -46,9 +46,7 @@ Misturo técnica com sensibilidade, curiosidade com disciplina, e criatividade c
 ### 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isab5&show_icons=true&theme=radical" alt="isab5's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isab5&layout=compact&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=isab5&theme=radical"/>
 </p>
 
 ---
@@ -61,6 +59,7 @@ Misturo técnica com sensibilidade, curiosidade com disciplina, e criatividade c
 ---
 
 ⭐ Obrigada por visitar meu perfil!
+
 
 
 
